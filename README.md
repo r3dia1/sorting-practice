@@ -28,7 +28,9 @@
   
   >Time Complexity:
   >>Create Binary Tree: O(n)
+
   >>Build Max Heap: O(n)
+
   >>Heap_sort + Heapify: O(nlogn)
   
   >Problem faced:
